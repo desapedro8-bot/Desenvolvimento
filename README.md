@@ -1,2 +1,0 @@
-# Desenvolvimento
-Analista de Dados.
